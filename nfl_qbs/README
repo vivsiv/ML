@@ -1,4 +1,4 @@
-Using pythons sklearn library and data from www.pro-football-reference.com to predict future Hall of Fame QB's based on past Hall of Fame QB's
+Using pythons sklearn library and data from www.pro-football-reference.com to predict future Hall of Fame QB's based on past Hall of Fame QB's stats
 
 - Uses selectKbest to find best features ("Y/A", "AY/A", "ANY/A", "WinPct", "Rate", "Y/G")
 - Uses Random Forest Classifier with 5 fold cross validation
