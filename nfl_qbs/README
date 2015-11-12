@@ -1,0 +1,15 @@
+Using pythons sklearn library and data from www.pro-football-reference.com to predict future Hall of Fame QB's based on past Hall of Fame QB's
+
+- Uses selectKbest to find best features ("Y/A", "AY/A", "ANY/A", "WinPct", "Rate", "Y/G")
+- Uses Random Forest Classifier with 5 fold cross validation
+
+Latest Result:
+HOF          Name
+----------------------
+1           Tom Brady
+1         Andy Dalton
+1         Andrew Luck
+1      Peyton Manning
+1       Aaron Rodgers
+1  Ben Roethlisberger
+1      Russell Wilson
